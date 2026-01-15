@@ -1,0 +1,27 @@
+[submodule "ChallengeAccepted"]
+	path = ChallengeAccepted
+	url = https://github.com/Mwwhited-BookLearning/ChallengeAccepted
+[submodule "NesLearning"]
+	path = NesLearning
+	url = https://github.com/Mwwhited-BookLearning/NesLearning
+[submodule "AlgorithmsInANutshell"]
+	path = AlgorithmsInANutshell
+	url = https://github.com/Mwwhited-BookLearning/AlgorithmsInANutshell
+[submodule "fohjin-cqrs"]
+	path = fohjin-cqrs
+	url = https://github.com/Mwwhited-BookLearning/fohjin-cqrs
+[submodule "TeachYourselfCppIn24Hours"]
+	path = TeachYourselfCppIn24Hours
+	url = https://github.com/Mwwhited-BookLearning/TeachYourselfCppIn24Hours
+[submodule "build-your-own-.net-language-compiler"]
+	path = build-your-own-.net-language-compiler
+	url = https://github.com/Mwwhited-BookLearning/build-your-own-.net-language-compiler
+[submodule "the-definitive-antlr4-reference-code"]
+	path = the-definitive-antlr4-reference-code
+	url = https://github.com/Mwwhited-BookLearning/the-definitive-antlr4-reference-code
+[submodule "exp-.net-2.0-il-assembler"]
+	path = exp-.net-2.0-il-assembler
+	url = https://github.com/Mwwhited-BookLearning/exp-.net-2.0-il-assembler
+[submodule "pro-sql-server-2008-service-broker"]
+	path = pro-sql-server-2008-service-broker
+	url = https://github.com/Mwwhited-BookLearning/pro-sql-server-2008-service-broker
