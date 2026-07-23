@@ -25,3 +25,6 @@
 [submodule "pro-sql-server-2008-service-broker"]
 	path = pro-sql-server-2008-service-broker
 	url = https://github.com/Mwwhited-BookLearning/pro-sql-server-2008-service-broker
+[submodule "sync-mesh"]
+	path = sync-mesh
+	url = https://github.com/Mwwhited-BookLearning/sync-mesh.git
