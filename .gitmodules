@@ -28,3 +28,6 @@
 [submodule "sync-mesh"]
 	path = sync-mesh
 	url = https://github.com/Mwwhited-BookLearning/sync-mesh.git
+[submodule "EventSouring"]
+	path = EventSouring
+	url = https://github.com/Mwwhited-BookLearning/EventSouring.git
