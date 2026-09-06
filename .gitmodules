@@ -31,3 +31,9 @@
 [submodule "EventSourcing"]
 	path = EventSourcing
 	url = https://github.com/Mwwhited-BookLearning/EventSourcing.git
+[submodule "PgPlayground"]
+	path = PgPlayground
+	url = https://github.com/Mwwhited-BookLearning/PgPlayground.git
+[submodule "navtec-roms"]
+	path = navtec-roms
+	url = https://github.com/Mwwhited-BookLearning/navtec-roms.git
