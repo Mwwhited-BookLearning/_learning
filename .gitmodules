@@ -37,3 +37,6 @@
 [submodule "navtec-roms"]
 	path = navtec-roms
 	url = https://github.com/Mwwhited-BookLearning/navtec-roms.git
+[submodule "compuadd-450-bios"]
+	path = compuadd-450-bios
+	url = https://github.com/Mwwhited-BookLearning/compuadd-450-bios.git
