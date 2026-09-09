@@ -40,3 +40,6 @@
 [submodule "compuadd-450-bios"]
 	path = compuadd-450-bios
 	url = https://github.com/Mwwhited-BookLearning/compuadd-450-bios.git
+[submodule "tektronix-2230"]
+	path = tektronix-2230
+	url = https://github.com/Mwwhited-BookLearning/tektronix-2230.git
